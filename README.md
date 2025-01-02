@@ -61,4 +61,4 @@ The `shares` object must have the following keys:
 | --- | --- | --- |
 | `name` | `string` | The name of the share. |
 | `quota` | `string` | The maximum size of the share in GB. |
-Testing 
+| `quota` | `string` | The maximum size of the share in GB. |
